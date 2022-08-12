@@ -1,4 +1,5 @@
-### Hi there 👋
+
+[![Laurent's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaurentArcos)](https://github.com/LaurentArcos)
 
 <!--
 **LaurentArcos/LaurentArcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
