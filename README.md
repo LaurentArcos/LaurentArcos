@@ -5,6 +5,16 @@
 
 <br>
 
+## 🌎 TRIBU - Projet de fin de formation
+
+[Lien vers le site](https://tribu.surge.sh/)
+
+[Lien vers le repo GitHub du front](https://github.com/O-clock-De-Vinci/projet-reseau-social-front)
+
+[Lien vers le repo GitHub du back](https://github.com/O-clock-De-Vinci/projet-reseau-social-back)
+
+<br>
+
 ## 📫 Me contacter :
 
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurentarcos) 
@@ -16,7 +26,7 @@
 
 ## 🛠 Compétences
 
-HTML / CSS / SCSS / Bootstrap
+HTML / Markdown / CSS / SCSS / Bootstrap
 
 Javascript / React 
 
