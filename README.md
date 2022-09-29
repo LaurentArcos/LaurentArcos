@@ -9,6 +9,8 @@
 
 [Lien vers le site](https://tribu.surge.sh/)
 
+[Lien vers la présentation sur Youtube](https://youtu.be/Q3WiRGLeXSQ?t=426) <-- Je présente le Front !
+
 <!--[Lien vers le repo GitHub du front](https://github.com/O-clock-De-Vinci/projet-reseau-social-front)
 
 [Lien vers le repo GitHub du back](https://github.com/O-clock-De-Vinci/projet-reseau-social-back)-->
