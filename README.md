@@ -31,7 +31,7 @@ HTML / Markdown / CSS / SCSS / Bootstrap
 
 Javascript / React 
 
-PHP / Laravel / MySQL
+PHP / Symfony / Laravel / MySQL
 
 Wordpress
 
