@@ -35,9 +35,18 @@ PHP / Symfony / Laravel / MySQL
 
 Wordpress
 
-Et bientôt... Vue, Node, Angular, Symfony       
+Et bientôt... Vue, Node, Angular      
 
 <br>
+
+## 📢 Langues étrangères
+
+:🇬🇧: Anglais
+:🇪🇸: Espagnol
+🇪🇸
+:us:
+:pt-BR:
+:brazil:
 
 ## 👩‍💻 Quelques stats
 
