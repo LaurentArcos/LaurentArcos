@@ -31,7 +31,7 @@
 
 ## 🛠 Compétences
 
-HTML / Markdown / CSS / SCSS / Bootstrap
+HTML / Markdown / CSS / SCSS / Bootstrap / Material UI
 
 Javascript / React 
 
@@ -39,7 +39,7 @@ PHP / Symfony / Laravel / MySQL
 
 Wordpress
 
-Et bientôt... Vue, Node, Angular      
+Et bientôt... Vue, Node, Angular, Typescript      
 
 <br>
 
