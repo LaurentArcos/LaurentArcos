@@ -9,6 +9,8 @@
 
 [Lien vers le site](https://tribu.surge.sh/)
 
+[Lien vers le repo du front](https://github.com/LaurentArcos/Tribu-Front)
+
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/Q3WiRGLeXSQ?t=426) <-- Je présente le Front !
 
 <!--[Lien vers le repo GitHub du front](https://github.com/O-clock-De-Vinci/projet-reseau-social-front)
