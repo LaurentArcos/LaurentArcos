@@ -36,6 +36,14 @@
 <br>
 
 ## 🛠 Compétences
+
+### Certification [Opquast](https://www.opquast.com/)
+
+855 pts obtenus
+Maîtrise avancée de la qualité en projet web
+[Voir le certificat](https://directory.opquast.com/fr/certificat/SMY4W8/)
+
+<br>
  
 ### Les langages et technos
 
