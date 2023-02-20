@@ -1,7 +1,9 @@
 
 # Laurent ARCOS
 
-[Mon CV en ligne](https://laurentarcos.github.io/mon-cv/html/)    
+[Mon CV en ligne](https://laurentarcos.github.io/mon-cv/html/)   
+
+[TRIBU](https://tribu.surge.sh/)
 
 [TrackerApp de la Station Spatiale Internationale](https://laurentarcosisstracker.surge.sh/)
 
@@ -11,11 +13,13 @@
 
 ## 🌎 TRIBU - Projet de fin de formation
 
-[Lien vers le site](https://tribu.surge.sh/)
+### -->  [Voir le site](https://tribu.surge.sh/)  <--
 
-[Lien vers le repo du front](https://github.com/LaurentArcos/Tribu-Front)
+<br>
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/Q3WiRGLeXSQ?t=426) <-- Je présente le Front !
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/Q3WiRGLeXSQ?t=426) // Je présente le Front !
+
+Le [repository](https://github.com/LaurentArcos/Tribu-Front) du front
 
 <!--[Lien vers le repo GitHub du front](https://github.com/O-clock-De-Vinci/projet-reseau-social-front)
 
