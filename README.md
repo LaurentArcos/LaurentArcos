@@ -15,7 +15,7 @@
 
 # 🌎 TRIBU - Projet de fin de formation
 
-## -->  [Voir le site](https://tribu.surge.sh/)  <--
+### -->  [Voir le site](https://tribu.surge.sh/)  <--
 
 <br>
 
