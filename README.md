@@ -1,8 +1,4 @@
 
-# Laurent ARCOS
-
-<br>
-
 ## Mes réalisations
 
 [Mon CV en ligne](https://laurentarcos.github.io/mon-cv/html/)   
