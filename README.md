@@ -1,5 +1,5 @@
 
-## Mes réalisations
+# Mes réalisations
 
 [Mon CV en ligne](https://laurentarcos.github.io/mon-cv/html/)   
 
@@ -13,9 +13,9 @@
 
 <br>
 
-## 🌎 TRIBU - Projet de fin de formation
+# 🌎 TRIBU - Projet de fin de formation
 
-### -->  [Voir le site](https://tribu.surge.sh/)  <--
+## -->  [Voir le site](https://tribu.surge.sh/)  <--
 
 <br>
 
@@ -30,7 +30,7 @@ Le [repository](https://github.com/LaurentArcos/Tribu-Front) du front
 
 <br>
 
-## 📫 Me contacter :
+# 📫 Me contacter :
 
 <br>
 
@@ -41,7 +41,7 @@ Le [repository](https://github.com/LaurentArcos/Tribu-Front) du front
 
 <br>
 
-## 🛠 Compétences
+# 🛠 Compétences
 
 ### Certification [Opquast](https://www.opquast.com/)
 
@@ -53,7 +53,7 @@ Maîtrise avancée de la qualité en projet web
 
 <br>
  
-### Les langages et technos
+## Les langages et technos
 
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
 ![Markdown](https://img.shields.io/static/v1?style=for-the-badge&message=Markdown&color=000000&logo=Markdown&logoColor=FFFFFF&label=)
@@ -88,7 +88,7 @@ Maîtrise avancée de la qualité en projet web
 
 <br>
 
-### Mes outils
+## Mes outils
 
 ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
@@ -103,7 +103,7 @@ Maîtrise avancée de la qualité en projet web
 
 <br>
 
-### Côté design
+## Côté design
 
 ![Canva](https://img.shields.io/static/v1?style=for-the-badge&message=Canva&color=222222&logo=Canva&logoColor=00C4CC&label=)
 ![Adobe Photoshop](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Photoshop&color=31A8FF&logo=Adobe+Photoshop&logoColor=FFFFFF&label=)
@@ -112,7 +112,7 @@ Maîtrise avancée de la qualité en projet web
 
 <br>
 
-### Et bientôt...
+## Et bientôt...
 
 ![Vue.js](https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label=)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -124,7 +124,7 @@ Maîtrise avancée de la qualité en projet web
 
 <br>
 
-## 👩‍💻 Quelques stats
+# 👩‍💻 Quelques stats
 
 ![Laurent's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaurentArcos&count_private=true&show_icons=true&theme=ayu-mirage)
 
