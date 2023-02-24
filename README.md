@@ -1,8 +1,10 @@
 <div align="center">
  
-# Mes réalisations  <img src="./iss.png" width="35"> <img src="./Meteo.png" width="120"> <img src="./Tribu.ico" width="35"> <img src="./logoreact.png" width="35">
+# Mes réalisations 
+ 
+<img src="./iss.png" width="35"> <img src="./Meteo.png" width="120"> <img src="./Tribu.ico" width="35"> <img src="./logoreact.png" width="35">
 
- <br>
+<br>
  
 [Mon CV en ligne](https://laurentarcos.github.io/mon-cv/html/)   
 
