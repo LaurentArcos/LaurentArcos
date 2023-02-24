@@ -1,19 +1,19 @@
 
-# Mes réalisations
+# Mes réalisations  <img src="./iss.png" width="35"> <img src="./Meteo.png" width="120"> <img src="./Tribu.ico" width="35"> <img src="./logoreact.png" width="35">
 
 [Mon CV en ligne](https://laurentarcos.github.io/mon-cv/html/)   
 
-[TRIBU](https://tribu.surge.sh/)
-
 [TrackerApp de la Station Spatiale Internationale](https://laurentarcosisstracker.surge.sh/)
 
-[Weather App](http://laurentarcosweatherapp.surge.sh/)
+[Weather App](http://laurentarcosweatherapp.surge.sh/) 
+
+[TRIBU](https://tribu.surge.sh/)
 
 [Les drapeaux du monde](https://laurentarcosflagsoftheworld.surge.sh/)
 
 <br>
 
-# 🌎 TRIBU - Projet de fin de formation
+# <img src="./Tribu.ico" width="29"> TRIBU - Projet de fin de formation
 
 ### -->  [Voir le site](https://tribu.surge.sh/)  <--
 
@@ -50,6 +50,8 @@ Le [repository](https://github.com/LaurentArcos/Tribu-Front) du front
 
 Maîtrise avancée de la qualité en projet web
 [Voir le certificat](https://directory.opquast.com/fr/certificat/SMY4W8/)
+
+<img src="./Opquast.JPG" width="100">
 
 <br>
  
