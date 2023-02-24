@@ -1,6 +1,9 @@
-
+<div align="center">
+ 
 # Mes réalisations  <img src="./iss.png" width="35"> <img src="./Meteo.png" width="120"> <img src="./Tribu.ico" width="35"> <img src="./logoreact.png" width="35">
 
+ <br>
+ 
 [Mon CV en ligne](https://laurentarcos.github.io/mon-cv/html/)   
 
 [TrackerApp de la Station Spatiale Internationale](https://laurentarcosisstracker.surge.sh/)
@@ -15,17 +18,13 @@
 
 # <img src="./Tribu.ico" width="29"> TRIBU - Projet de fin de formation
 
-### -->  [Voir le site](https://tribu.surge.sh/)  <--
+### ---->  [Voir le site](https://tribu.surge.sh/)  <----
 
 <br>
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/Q3WiRGLeXSQ?t=426) // Je présente le Front !
+Je présente le Front sur [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/Q3WiRGLeXSQ?t=426)
 
 Le [repository](https://github.com/LaurentArcos/Tribu-Front) du front
-
-<!--[Lien vers le repo GitHub du front](https://github.com/O-clock-De-Vinci/projet-reseau-social-front)
-
-[Lien vers le repo GitHub du back](https://github.com/O-clock-De-Vinci/projet-reseau-social-back)-->
 
 
 <br>
@@ -130,3 +129,5 @@ Maîtrise avancée de la qualité en projet web
 ![Laurent's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaurentArcos&count_private=true&show_icons=true&theme=ayu-mirage)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaurentArcos&layout=compact&langs_count=8)](https://github.com/LaurentArcos/github-readme-stats)
+ 
+ </div>
