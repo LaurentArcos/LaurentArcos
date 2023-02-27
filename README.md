@@ -6,8 +6,6 @@
 
 <br>
  
-[Mon CV en ligne](https://laurentarcos.github.io/mon-cv/html/)   
-
 [TrackerApp de la Station Spatiale Internationale](https://laurentarcosisstracker.surge.sh/)
 
 [Weather App](http://laurentarcosweatherapp.surge.sh/) 
@@ -15,6 +13,9 @@
 [TRIBU](https://tribu.surge.sh/)
 
 [Flags of the world](https://laurentarcosflagsoftheworld.surge.sh/)
+ 
+[Mon CV en ligne (en JS avec github pages)](https://laurentarcos.github.io/mon-cv/html/)   
+
 
 <br>
 
