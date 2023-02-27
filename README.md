@@ -44,15 +44,16 @@ Le [repository](https://github.com/LaurentArcos/Tribu-Front) du front
 
 # 🛠 Compétences
 
-### Certification [Opquast](https://www.opquast.com/)
+<br>
+ 
+## Certification [Opquast](https://www.opquast.com/)
 
 855 pts obtenus
 
+<img src="./Opquast.JPG" width="100">
 
 Maîtrise avancée de la qualité en projet web
 [Voir le certificat](https://directory.opquast.com/fr/certificat/SMY4W8/)
-
-<img src="./Opquast.JPG" width="100">
 
 <br>
  
