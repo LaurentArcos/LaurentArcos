@@ -14,7 +14,7 @@
 
 [TRIBU](https://tribu.surge.sh/)
 
-[Les drapeaux du monde](https://laurentarcosflagsoftheworld.surge.sh/)
+[Flags of the world](https://laurentarcosflagsoftheworld.surge.sh/)
 
 <br>
 
