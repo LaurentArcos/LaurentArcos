@@ -10,7 +10,7 @@
 
 [Weather App](http://laurentarcosweatherapp.surge.sh/) 
 
-[Quizz de culture générale](https://laurentarcostriviaquizz.surge.sh/) 
+[Trivia Quizz](https://laurentarcostriviaquizz.surge.sh/) 
 
 [TRIBU](https://tribu.surge.sh/)
 
