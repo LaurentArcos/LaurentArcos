@@ -2,7 +2,7 @@
  
 # Mes réalisations 
  
-<img src="./iss.png" width="35"> <img src="./Meteo.png" width="120"> <img src="./quizzapp.png" width="35"> <img src="./Tribu.ico" width="35"> <img src="./logoreact.png" width="35">
+<img src="./iss.png" width="35"> <img src="./Meteo.png" width="120"> <img src="./quizzapp.png" width="35"> <img src="./Tribu.ico" width="35"> <img src="./logoreact.png" width="35"> <img src="./calculatrice.png" height="40">
 
 <br>
  
@@ -15,6 +15,8 @@
 [TRIBU](https://tribu.surge.sh/)
 
 [Flags of the world](https://laurentarcosflagsoftheworld.surge.sh/)
+ 
+[Calculatrice](https://laurentarcoscalculatrice.surge.sh/)
  
 [Mon CV en ligne (en JS avec github pages)](https://laurentarcos.github.io/mon-cv/html/)   
 
