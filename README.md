@@ -25,11 +25,11 @@
 
 # <img src="./Tribu.ico" width="29"> TRIBU - Projet de fin de formation
 
-### ---->  [Voir le site](https://tribu.surge.sh/)  <----
+### --->  [Voir le site](https://tribu.surge.sh/)  <---
 
 <br>
 
-Je présente le Front sur [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/Q3WiRGLeXSQ?t=426)
+Je présente le Front sur  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/Q3WiRGLeXSQ?t=426)
 
 Le [repository](https://github.com/LaurentArcos/Tribu-Front) du front
 
