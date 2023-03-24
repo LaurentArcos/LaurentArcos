@@ -7,6 +7,8 @@
 <br>
  
 [TrackerApp de la Station Spatiale Internationale](https://laurentarcosisstracker.surge.sh/)
+ 
+[Site vitrine Coffee Shop](https://lacoffeedential.surge.sh/)
 
 [Weather App](http://laurentarcosweatherapp.surge.sh/) 
 
