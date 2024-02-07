@@ -146,6 +146,11 @@ Maîtrise avancée de la qualité en projet web
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaurentArcos&layout=compact&langs_count=8)](https://github.com/LaurentArcos/github-readme-stats)
 
+[![Streaks](http://github-readme-streak-stats.herokuapp.com?user=laurentarcos&theme=dracula)]
+<!--<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=laurentarcos&theme=dracula" alt="laurentarcos" />
+</p>-->
+
 [![Laurent's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=laurentarcos&theme=react-dark&custom_title=Nombre%20de%20commits%20sur%2031%20derniers%20jours)](https://github.com/laurentarcos/github-readme-activity-graph)
 
  </div>
