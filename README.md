@@ -103,7 +103,7 @@ Maîtrise avancée de la qualité en projet web
 ![Socket.io](https://img.shields.io/static/v1?style=for-the-badge&message=Socket.io&color=010101&logo=Socket.io&logoColor=FFFFFF&label=)
 ![JSON Web Tokens](https://img.shields.io/static/v1?style=for-the-badge&message=JSON+Web+Tokens&color=000000&logo=JSON+Web+Tokens&logoColor=FFFFFF&label=)
 ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-![vitest](https://img.shields.io/badge/-vitest-%B441FE?style=for-the-badge&logo=vitest&logoColor=ACD268)
+![vitest](https://img.shields.io/badge/-vitest-%ACD268?style=for-the-badge&logo=vitest&logoColor=w)
 
 
 ![Shopify](https://img.shields.io/static/v1?style=for-the-badge&message=Shopify&color=1A1A1A&logo=Shopify&logoColor=25E82B&label=)
@@ -115,6 +115,7 @@ Maîtrise avancée de la qualité en projet web
 ## Mes outils
 
 ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 ![Slack](https://img.shields.io/static/v1?style=for-the-badge&message=Slack&color=4A154B&logo=Slack&logoColor=FFFFFF&label=)
 ![Discord](https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=)
