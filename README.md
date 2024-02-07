@@ -5,7 +5,6 @@
 <br>
 
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurentarcos) 
-[![GitHub](https://img.shields.io/badge/github-2F403C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LaurentArcos?tab=repositories)
 [![gmail](https://img.shields.io/badge/Email-FF4131?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laurent.arcos@gmail.com)      
 
 <br>
@@ -13,6 +12,7 @@
 # Mes réalisations 
  
 <img src="./iss.png" width="40"> <img src="./coffee.png" width="35"> <img src="./Meteo.png" width="120"> <img src="./quizzapp.png" width="40"> <img src="./Tribu.ico" width="40"> <img src="./calculatrice.png" height="40"> <img src="./worldflags.png" width="45"> 
+
 
 <br>
  
@@ -32,6 +32,12 @@
 [Flags of the world](https://laurentarcosflagsoftheworld.surge.sh/)
  
 [Mon CV en ligne (en JS vanilla avec github pages)](https://laurentarcos.github.io/mon-cv/html/)   
+
+<br>
+
+Voir tous mes repositories : 
+
+[![GitHub](https://img.shields.io/badge/github-2F403C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LaurentArcos?tab=repositories)
 
 
 <br>
