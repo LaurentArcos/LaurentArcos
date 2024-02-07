@@ -14,7 +14,8 @@
 
 [Trivia Quizz](https://laurentarcostriviaquizz.surge.sh/) 
 
-[TRIBU](https://tribu.surge.sh/) (ce site n'est provisoirement plus en ligne)
+[TRIBU](https://tribu.surge.sh/) 
+(site n'est provisoirement hors ligne)
  
 [Calculatrice](https://laurentarcoscalculatrice.surge.sh/)
 
