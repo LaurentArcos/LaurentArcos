@@ -57,7 +57,7 @@ Je présente le Front sur YouTube :
  
 <br>
 
-Le [repository](https://github.com/LaurentArcos/Tribu-Front) du front
+Le [repository](https://github.com/LaurentArcos/Tribu-Front) du Front
 
 
 <br>
