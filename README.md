@@ -11,7 +11,7 @@
  
 # Mes réalisations 
  
-<img src="./iss.png" width="40"> <img src="./coffee.png" width="35"> <img src="./Meteo.png" width="120"> <img src="./quizzapp.png" width="40"> <img src="./Tribu.ico" width="40"> <img src="./calculatrice.png" height="40"> <img src="./worldflags.png" width="45"> 
+<img src="./seagale.png" width="40"> <img src="./iss.png" width="40"> <img src="./coffee.png" width="35"> <img src="./Meteo.png" width="120"> <img src="./quizzapp.png" width="40"> <img src="./Tribu.ico" width="40"> <img src="./calculatrice.png" height="40"> <img src="./worldflags.png" width="45"> 
 
 
 <br>
