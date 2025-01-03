@@ -9,31 +9,40 @@
 
 <br>
  
-# Mes réalisations 
- 
-<img src="./seagale.png" width="40"> <img src="./iss.png" width="40"> <img src="./coffee.png" width="35"> <img src="./meteo.png" width="45"> <img src="./quizzapp.png" width="40"> <img src="./Tribu.ico" width="40"> <img src="./calculatrice.png" height="40"> <img src="./worldflags.png" width="45"> 
+# Mes réalisations
 
+<a href="#worduel"><img src="./worduel.png" width="40"></a>
+<a href="#seagale"><img src="./seagale.png" width="40"></a>
+<a href="#allianz"><img src="./allianz.png" width="110"></a>
+<a href="#iss-tracker"><img src="./iss.png" width="40"></a>
+<a href="#coffee-shop"><img src="./coffee.png" width="35"></a>
+<a href="#weather-app"><img src="./meteo.png" width="45"></a>
+<a href="#trivia-quizz"><img src="./quizzapp.png" width="40"></a>
+<a href="#tribu"><img src="./Tribu.ico" width="40"></a>
+<a href="#calculatrice"><img src="./calculatrice.png" height="40"></a>
+<a href="#flags-of-the-world"><img src="./worldflags.png" width="45"></a>
 
 <br>
 
-[Seagale - Application utilisée en boutique](https://github.com/LaurentArcos/Cigale-POS-App)
- 
-[TrackerApp de la Station Spatiale Internationale](https://laurentarcosisstracker.surge.sh/)
- 
-[Site vitrine Coffee Shop](https://lacoffeedential.surge.sh/)
+### <a id="worduel"></a>[Worduel - Jeu de type Wordle en Solo ou en Duel](https://worduel.fr/)
 
-[Weather App](http://laurentarcosweatherapp.surge.sh/) 
+### <a id="seagale"></a>[Seagale - Application utilisée en boutique](https://github.com/LaurentArcos/Cigale-POS-App)
 
-[Trivia Quizz](https://laurentarcostriviaquizz.surge.sh/) 
+### <a id="allianz"></a>[assurancedespros.fr - Agence Allianz](https://www.assurancedespros.fr/)
 
-[TRIBU](https://tribu.surge.sh/) 
-(site provisoirement hors ligne)
- 
-[Calculatrice](https://laurentarcoscalculatrice.surge.sh/)
+### <a id="iss-tracker"></a>[TrackerApp de la Station Spatiale Internationale](https://laurentarcosisstracker.surge.sh/)
 
-[Flags of the world](https://laurentarcosflagsoftheworld.surge.sh/)
- 
-[Mon CV en ligne (en JS vanilla avec github pages)](https://laurentarcos.github.io/mon-cv/html/)   
+### <a id="coffee-shop"></a>[Site vitrine Coffee Shop](https://lacoffeedential.surge.sh/)
+
+### <a id="weather-app"></a>[Weather App](http://laurentarcosweatherapp.surge.sh/) 
+
+### <a id="trivia-quizz"></a>[Trivia Quizz](https://laurentarcostriviaquizz.surge.sh/) 
+
+### <a id="tribu"></a>[TRIBU](https://tribu.surge.sh/) (site provisoirement hors ligne)
+
+### <a id="calculatrice"></a>[Calculatrice](https://laurentarcoscalculatrice.surge.sh/)
+
+### <a id="flags-of-the-world"></a>[Flags of the World](https://laurentarcosflagsoftheworld.surge.sh/)
 
 <br>
 
