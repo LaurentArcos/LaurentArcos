@@ -38,7 +38,8 @@
 
 ### <a id="trivia-quizz"></a>[Trivia Quizz](https://laurentarcostriviaquizz.surge.sh/) 
 
-### <a id="tribu"></a>[TRIBU](https://tribu.surge.sh/) (site provisoirement hors ligne)
+### <a id="tribu"></a>[TRIBU](https://tribu.surge.sh/) - provisoirement hors ligne 
+##### En attendant consultez le [repository du Frontend](https://github.com/LaurentArcos/Tribu-Front) et ma [Présentation sur YouTube](https://youtu.be/Q3WiRGLeXSQ?t=426)<img src="./youtube.png" width="25"> 
 
 ### <a id="calculatrice"></a>[Calculatrice](https://laurentarcoscalculatrice.surge.sh/)
 
@@ -49,26 +50,6 @@
 Voir tous mes repositories : 
 
 [![GitHub](https://img.shields.io/badge/github-2F403C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LaurentArcos?tab=repositories)
-
-
-<br>
-
-# <img src="./Tribu.ico" width="29"> TRIBU - Projet de fin de formation
- 
-<br> 
-
-### --->  [Voir le site](https://tribu.surge.sh/)  <--- 
-(site provisoirement hors ligne)
-
-<br>
-
-Je présente le Front sur YouTube :
- 
-[<img src="./youtube.png" width="60">](https://youtu.be/Q3WiRGLeXSQ?t=426)
- 
-<br>
-
-Le [repository](https://github.com/LaurentArcos/Tribu-Front) du Front
 
 
 <br>
