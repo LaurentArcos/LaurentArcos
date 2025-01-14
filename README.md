@@ -9,6 +9,12 @@
 
 <br>
  
+# Mon CV
+
+### [Consulte mon cv en ligne](https://cv.laurentarcos.fr/)
+
+<br>
+ 
 # Mes réalisations
 
 <br>
