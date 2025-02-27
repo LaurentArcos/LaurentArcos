@@ -24,6 +24,7 @@
 <a href="#allianz"><img src="./allianz.png" width="110"></a>
 <a href="#iss-tracker"><img src="./iss.png" width="40"></a>
 <a href="#coffee-shop"><img src="./coffee.png" width="35"></a>
+<a href="#pokedex"><img src="./pokemon.png" width="40"></a>
 <a href="#weather-app"><img src="./meteo.png" width="45"></a>
 <a href="#trivia-quizz"><img src="./quizzapp.png" width="40"></a>
 <a href="#tribu"><img src="./Tribu.ico" width="40"></a>
@@ -43,6 +44,8 @@
 ### <a id="coffee-shop"></a>[Site vitrine Coffee Shop](https://lacoffeedential.surge.sh/)
 
 ### <a id="margot"></a>[Exemple Portfolio Moodboard](https://margotjollyportfolio.surge.sh/)
+
+### <a id="pokedex"></a>[Pokédex](https://pokedexdeclara.surge.sh/)
 
 ### <a id="weather-app"></a>[Weather App](http://laurentarcosweatherapp.surge.sh/) 
 
