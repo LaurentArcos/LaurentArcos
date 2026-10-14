@@ -1,7 +1,5 @@
 <div align="center">
 
-# 📫 Me contacter :
-
 <br>
 
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurentarcos) 
@@ -17,5 +15,10 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=laurentarcos&theme=neon-palenight&locale=fr)](https://git.io/streak-stats)
 
+<br>
 
+[![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurentarcos) 
+[![gmail](https://img.shields.io/badge/Email-FF4131?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laurent.arcos@gmail.com)      
+
+<br>
  </div>
